@@ -5,8 +5,10 @@ This project aims to analyze and visualize the NASA Battery dataset using Plotly
 
 Prerequisites:
 --------------
-Python 3.x
+Python 3.x 
+
 pandas
+
 plotly
 --------------
 You can install the required libraries using pip:
